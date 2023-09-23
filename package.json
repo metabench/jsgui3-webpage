@@ -1,0 +1,13 @@
+{
+    "name": "jsgui3-webpage",
+    "main": "Webpage.js",
+    "license": "MIT",
+
+    "comments": [
+        "Just depend on jsgui3 html for the moment. This would be a webpage in the abstract sense."
+    ],
+
+    "dependencies": {
+        "jsgui3-html": "^0.0.111"
+    }
+}
